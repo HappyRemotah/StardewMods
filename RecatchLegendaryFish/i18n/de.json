@@ -1,0 +1,15 @@
+{
+    /*********
+    ** In-game messages
+    *********/
+    "message.enabled": "Du kannst nun erneut legendäre Fische fangen. Drücke {{key}} erneut um es deaktivieren.",
+    "message.disabled": "Du kannst nun keine legendäre Fische erneut fangen. Drücke {{key}} erneut um es aktivieren.",
+
+
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+    "config.controls": "Steuerung",
+    "config.toggle-key.name": "Taste",
+    "config.toggle-key.desc": "Mit Hilfe der Taste kannst du die Funktion zum erneuten Fangen von legendären Fischen aktiveren und wieder deaktivieren."
+}
